@@ -1,0 +1,17 @@
+F:\Projects\Tutorials\PassingParameters\PassingParameters\bin\Debug\netcoreapp2.2\PassingParameters.deps.json
+F:\Projects\Tutorials\PassingParameters\PassingParameters\bin\Debug\netcoreapp2.2\PassingParameters.runtimeconfig.json
+F:\Projects\Tutorials\PassingParameters\PassingParameters\bin\Debug\netcoreapp2.2\PassingParameters.runtimeconfig.dev.json
+F:\Projects\Tutorials\PassingParameters\PassingParameters\bin\Debug\netcoreapp2.2\PassingParameters.dll
+F:\Projects\Tutorials\PassingParameters\PassingParameters\bin\Debug\netcoreapp2.2\PassingParameters.pdb
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.csprojAssemblyReference.cache
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.csproj.CoreCompileInputs.cache
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.AssemblyInfoInputs.cache
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.AssemblyInfo.cs
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.dll
+F:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.pdb
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.csprojAssemblyReference.cache
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.AssemblyInfoInputs.cache
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.AssemblyInfo.cs
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.csproj.CoreCompileInputs.cache
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.dll
+D:\Projects\Tutorials\PassingParameters\PassingParameters\obj\Debug\netcoreapp2.2\PassingParameters.pdb
